@@ -1,0 +1,17 @@
+body {
+  background-color:rgb(80, 83, 255);
+}
+
+p {
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+}
+
+.amarillo {
+  color: yellow;
+}
+
+#unico {
+  color: crimson;
+  font-size: 66px;
+}
