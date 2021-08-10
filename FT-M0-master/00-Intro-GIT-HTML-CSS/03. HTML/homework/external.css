@@ -1,7 +1,17 @@
-body{
-    background-color: rgb(131, 125, 125);
+h1{
+    color: aquamarine;
+}
+img{
+    width: 400px;
 }
 #thirdDiv {
-    height: 600px;
+     height: 600px;
     width: 500px;
+    background-color: bisque;
+    padding: 50px;
+    border: 5px solid black;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
 }
